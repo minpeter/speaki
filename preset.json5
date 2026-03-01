@@ -1,0 +1,20 @@
+{
+  name: 'speaki',
+  version: '1.0.0',
+  description: '스핔이 - 호박을 좋아하는 귀여운 밈 캐릭터 에이전트 (by juunini)',
+  author: 'juunini',
+  tags: ['character', 'fun', 'korean', 'meme'],
+
+  workspaceFiles: [
+    'AGENTS.md',
+    'SOUL.md',
+    'IDENTITY.md',
+    'HEARTBEAT.md',
+  ],
+
+  config: {
+    identity: {
+      name: 'speaki',
+    },
+  },
+}
